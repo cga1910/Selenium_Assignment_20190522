@@ -9,7 +9,8 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-// TODO: 2019-06-27 Put all xpaths in the properties file?
+// TODO: 2019-06-27  Put all XPaths in the properties file?
+// TODO: 2019-06-27  Wrap lines at 80 columns.
 
 public class Test_2019_0522_0627 extends Base_ {
 
